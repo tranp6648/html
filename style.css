@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    width: 100%;
+    background-color: #FF00FF;
+    height: 12vh;
+    color: #fff;
+    
+}
+.Menu{
+    width: 100%; 
+    background-color:#4169E1;
+    color: #fff;
+    height: 7vh;
+}
+.parent{
+    float: left;
+    width: 100%;
+}
+.left{
+    float: left;
+    width: 20%;
+    background-color: #32CD32;
+    color: white;
+    height: 50vh;
+}
+.center{
+    float: left;
+    width: 60%;
+    background-color: #00FF00;
+    color: white;
+    height: 50vh;
+}
+.right{
+    float: left;
+    width: 20%;
+    background-color: #CC5500;
+    color: white;
+    height: 50vh;
+}
+.footer{
+    width: 100%;
+    height: 31vh;
+    background-color: #B2BEB5;
+    color: white;
+    clear: both;
+}
